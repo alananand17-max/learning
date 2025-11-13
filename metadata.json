@@ -1,0 +1,5 @@
+{
+  "name": "ATS CV Generator Pro",
+  "description": "A web application to generate and analyze ATS-compliant CVs using a configurable AI backend. Users can input job descriptions, answer tailored questions, and generate CVs in LaTeX format.",
+  "requestFramePermissions": []
+}
